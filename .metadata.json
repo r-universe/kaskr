@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "readHAC",
+    "oncran": true
+  },
+  {
+    "package": "TMB",
+    "oncran": true
+  },
+  {
+    "package": "tmbstan",
+    "oncran": true
+  }
+]

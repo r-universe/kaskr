@@ -3,3 +3,21 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "readHAC"]
+	path = readHAC
+	url = https://github.com/kaskr/hac
+	shallow = true
+	subdir = readHAC
+	registered = true
+[submodule "TMB"]
+	path = TMB
+	url = https://github.com/kaskr/adcomp
+	shallow = true
+	subdir = TMB
+	registered = true
+[submodule "tmbstan"]
+	path = tmbstan
+	url = https://github.com/kaskr/tmbstan
+	shallow = true
+	subdir = tmbstan
+	registered = true
