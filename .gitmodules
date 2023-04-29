@@ -9,3 +9,10 @@
 	shallow = true
 	subdir = RTMB
 	registered = true
+[submodule "RTMBp"]
+	path = RTMBp
+	url = https://github.com/kaskr/RTMB
+	shallow = true
+	branch = RTMBp
+	subdir = RTMBp
+	registered = true
