@@ -1,18 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/kaskr/kaskr.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "RTMB"]
 	path = RTMB
 	url = https://github.com/kaskr/RTMB
-	shallow = true
 	subdir = RTMB
-	registered = true
 [submodule "RTMBp"]
 	path = RTMBp
 	url = https://github.com/kaskr/RTMB
-	shallow = true
 	branch = RTMBp
 	subdir = RTMBp
-	registered = true
