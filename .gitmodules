@@ -6,6 +6,10 @@
 	path = RTMB
 	url = https://github.com/kaskr/RTMB
 	subdir = RTMB
+[submodule "RTMBode"]
+	path = RTMBode
+	url = https://github.com/kaskr/RTMB
+	subdir = RTMB
 [submodule "RTMBp"]
 	path = RTMBp
 	url = https://github.com/kaskr/RTMB
