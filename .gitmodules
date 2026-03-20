@@ -15,3 +15,11 @@
 	url = https://github.com/kaskr/RTMB
 	branch = RTMBp
 	subdir = RTMBp
+[submodule "TMB"]
+	path = TMB
+	url = https://github.com/kaskr/adcomp
+	subdir = TMB
+[submodule "tmbstan"]
+	path = tmbstan
+	url = https://github.com/kaskr/tmbstan
+	subdir = tmbstan
